@@ -1,5 +1,4 @@
 ---
-id: 01M064DNS9Y0R7122E8B9Y5GZQ
 title: champa
 publishAfterDate: 2026-08-16
 language: en
